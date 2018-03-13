@@ -32,9 +32,7 @@
             "gpr.hu",
             "interstat.hu",
             "ioam.de",
-            "ivwbox.de"
-        ],
-        "to_test": [
+            "ivwbox.de",
             "mtrcs.samba.tv",
             "name=\"author\"",
             "name=\"description\"",
@@ -44,7 +42,9 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
-            "touchclarity.natwest.com",
+            "touchclarity.natwest.com"
+        ],
+        "to_test": [
             "</body>"
         ]
     }
