@@ -1,8 +1,6 @@
-# About [yoyo.org_domains]
+# About yoyo.org_domains
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/yoyo.org_domains.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/yoyo.org_domains)
-
-[Description]
 
 --------------------------------------------------------------------------------
 
