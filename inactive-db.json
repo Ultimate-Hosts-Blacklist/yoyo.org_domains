@@ -13,7 +13,8 @@
             "ads.adultswim.com",
             "ads.aol.com",
             "ads.batpmturner.com",
-            "ads.newsquest.co.uk"
+            "ads.newsquest.co.uk",
+            "</body>"
         ],
         "to_test": [
             "ads.saymedia.com",
@@ -42,8 +43,7 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
-            "touchclarity.natwest.com",
-            "</body>"
+            "touchclarity.natwest.com"
         ]
     }
 }
