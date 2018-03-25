@@ -6,7 +6,15 @@
             "ads.adultswim.com",
             "ads.aol.com",
             "ads.batpmturner.com",
-            "ads.newsquest.co.uk"
+            "ads.newsquest.co.uk",
+            "</body>",
+            "</html>",
+            "</pre>",
+            "<body>",
+            "<head>",
+            "<html>",
+            "<p><pre>",
+            "<title>"
         ],
         "to_test": [
             "ads.trinitymirror.co.uk",
@@ -35,14 +43,6 @@
             "server",
             "touchclarity.natwest.com",
             "ads.sift.co.uk",
-            "</body>",
-            "</html>",
-            "</pre>",
-            "<body>",
-            "<head>",
-            "<html>",
-            "<p><pre>",
-            "<title>",
             "ads.saymedia.com"
         ]
     }
