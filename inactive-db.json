@@ -14,7 +14,8 @@
             "ads.aol.com",
             "ads.batpmturner.com",
             "ads.newsquest.co.uk",
-            "ads.saymedia.com"
+            "ads.saymedia.com",
+            "</body>"
         ],
         "to_test": [
             "ads.trinitymirror.co.uk",
@@ -42,8 +43,7 @@
             "rel=alternate",
             "server",
             "touchclarity.natwest.com",
-            "ads.sift.co.uk",
-            "</body>"
+            "ads.sift.co.uk"
         ]
     }
 }
