@@ -1,13 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1521987244": [
-            "ad.pandora.tv",
-            "adman.in.gr",
-            "ads.adultswim.com",
-            "ads.aol.com",
-            "ads.batpmturner.com",
-            "ads.newsquest.co.uk",
-            "</body>",
+        "1522074037": [
             "</html>",
             "</pre>",
             "<body>",
@@ -15,6 +8,12 @@
             "<html>",
             "<p><pre>",
             "<title>",
+            "ad.pandora.tv",
+            "adman.in.gr",
+            "ads.adultswim.com",
+            "ads.aol.com",
+            "ads.batpmturner.com",
+            "ads.newsquest.co.uk",
             "ads.saymedia.com"
         ],
         "to_test": [
@@ -43,7 +42,8 @@
             "rel=alternate",
             "server",
             "touchclarity.natwest.com",
-            "ads.sift.co.uk"
+            "ads.sift.co.uk",
+            "</body>"
         ]
     }
 }
