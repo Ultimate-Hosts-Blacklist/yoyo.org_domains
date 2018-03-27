@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1522074037": [
+        "1522160538": [
             "</html>",
             "</pre>",
             "<body>",
@@ -13,9 +13,7 @@
             "ads.adultswim.com",
             "ads.aol.com",
             "ads.batpmturner.com",
-            "ads.newsquest.co.uk",
-            "ads.saymedia.com",
-            "</body>"
+            "ads.newsquest.co.uk"
         ],
         "to_test": [
             "ads.trinitymirror.co.uk",
@@ -43,7 +41,9 @@
             "rel=alternate",
             "server",
             "touchclarity.natwest.com",
-            "ads.sift.co.uk"
+            "ads.sift.co.uk",
+            "ads.saymedia.com",
+            "</body>"
         ]
     }
 }
