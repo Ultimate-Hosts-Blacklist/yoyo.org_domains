@@ -38,10 +38,10 @@
             "quarterserver.de",
             "rel='stylesheet'",
             "rel=alternate",
-            "server"
+            "server",
+            "touchclarity.natwest.com"
         ],
         "to_test": [
-            "touchclarity.natwest.com",
             "</body>"
         ]
     }
