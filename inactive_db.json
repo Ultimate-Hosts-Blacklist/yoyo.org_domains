@@ -39,10 +39,10 @@
             "rel='stylesheet'",
             "rel=alternate",
             "rockabox.co",
-            "server"
+            "server",
+            "touchclarity.natwest.com"
         ],
         "to_test": [
-            "touchclarity.natwest.com",
             "</body>"
         ]
     }
