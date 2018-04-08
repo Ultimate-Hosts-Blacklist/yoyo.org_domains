@@ -29,9 +29,7 @@
             "dynamic.fmpub.net",
             "go-clicks.de",
             "ioam.de",
-            "ivwbox.de"
-        ],
-        "to_test": [
+            "ivwbox.de",
             "mtrcs.samba.tv",
             "name=\"author\"",
             "name=\"description\"",
@@ -41,9 +39,12 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
+            "static.fmpub.net",
             "top-casting-termine.de",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "</body>"
         ]
     }
