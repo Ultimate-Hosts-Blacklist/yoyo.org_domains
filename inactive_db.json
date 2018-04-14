@@ -31,10 +31,7 @@
             "go-clicks.de",
             "ioam.de",
             "ivwbox.de",
-            "mtrcs.samba.tv"
-        ],
-        "to_test": [
-            "touchclarity.natwest.com",
+            "mtrcs.samba.tv",
             "name=\"author\"",
             "name=\"description\"",
             "name=\"keywords\"",
@@ -45,7 +42,10 @@
             "rel=alternate",
             "server",
             "top-casting-termine.de",
-            "track.dating-4-you.com",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "</body>"
         ]
     }
