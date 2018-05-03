@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1525010007": [
+        "1525355577": [
             "</html>",
             "</pre>",
             "<body>",
@@ -15,7 +15,10 @@
             "ads.asia1.com.sg",
             "ads.batpmturner.com",
             "ads.larryaffiliates.com",
-            "ads.linuxjournal.com",
+            "ads.linuxjournal.com"
+        ],
+        "to_test": [
+            "top-casting-termine.de",
             "ads.moceanads.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -51,10 +54,7 @@
             "rel=alternate",
             "server",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
-        ],
-        "to_test": [
-            "top-casting-termine.de",
+            "track.dating-4-you.com",
             "</body>"
         ]
     }
