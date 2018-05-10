@@ -37,10 +37,7 @@
             "go-clicks.de",
             "gpr.hu",
             "ioam.de",
-            "ivwbox.de"
-        ],
-        "to_test": [
-            "ads.moceanads.com",
+            "ivwbox.de",
             "mtrcs.samba.tv",
             "name=\"author\"",
             "name=\"description\"",
@@ -52,7 +49,10 @@
             "rel=alternate",
             "server",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
+            "ads.moceanads.com",
             "</body>"
         ]
     }
