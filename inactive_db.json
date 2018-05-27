@@ -37,9 +37,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
             "ioam.de",
             "ivwbox.de",
             "mtrcs.samba.tv",
@@ -52,6 +50,9 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
+            "siteverification.online"
+        ],
+        "to_test": [
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "</body>"
