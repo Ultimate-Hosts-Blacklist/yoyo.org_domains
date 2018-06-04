@@ -50,12 +50,12 @@
             "quarterserver.de",
             "rel='stylesheet'",
             "rel=alternate",
-            "server"
-        ],
-        "to_test": [
+            "server",
             "siteverification.online",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "</body>"
         ]
     }
