@@ -38,9 +38,7 @@
             "banners.audioholics.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ],
-        "to_test": [
+            "dmtracking2.alibaba.com",
             "go-clicks.de",
             "gpr.hu",
             "ioam.de",
@@ -49,10 +47,11 @@
             "name=\"author\"",
             "name=\"description\"",
             "name=\"keywords\"",
-            "nedstatpro.net",
             "oewabox.at",
             "pixel.jumptap.com",
-            "quarterserver.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
             "rel='stylesheet'",
             "rel=alternate",
             "server",
