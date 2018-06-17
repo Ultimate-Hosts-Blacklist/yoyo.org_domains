@@ -50,11 +50,12 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
-            "siteverification.online"
-        ],
-        "to_test": [
+            "siteverification.online",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
+            "wantmobi.bid"
+        ],
+        "to_test": [
             "</body>"
         ]
     }
