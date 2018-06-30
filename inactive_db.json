@@ -49,9 +49,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
             "ioam.de",
             "ivwbox.de",
             "mtrcs.samba.tv",
@@ -63,7 +61,9 @@
             "pixel.jumptap.com",
             "quarterserver.de",
             "rel='stylesheet'",
-            "rel=alternate",
+            "rel=alternate"
+        ],
+        "to_test": [
             "server",
             "siteverification.online",
             "touchclarity.natwest.com",
