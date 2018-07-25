@@ -38,11 +38,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
-            "b.aol.com",
-            "b.engadget.com",
+            "gpr.hu",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
@@ -58,7 +54,11 @@
             "record.affiliates.karjalakasino.com",
             "rel='stylesheet'",
             "rel=alternate",
-            "server",
+            "server"
+        ],
+        "to_test": [
+            "b.aol.com",
+            "b.engadget.com",
             "siteverification.online",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
