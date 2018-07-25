@@ -54,14 +54,14 @@
             "record.affiliates.karjalakasino.com",
             "rel='stylesheet'",
             "rel=alternate",
-            "server"
+            "server",
+            "siteverification.online",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com"
         ],
         "to_test": [
             "b.aol.com",
             "b.engadget.com",
-            "siteverification.online",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
             "</body>"
         ]
     }
