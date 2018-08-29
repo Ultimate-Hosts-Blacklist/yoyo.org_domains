@@ -47,9 +47,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
@@ -61,6 +59,7 @@
             "name=\"keywords\"",
             "oewabox.at",
             "openad.tf1.fr",
+            "pgl.example",
             "pixel.jumptap.com",
             "quarterserver.de",
             "ranking-street.de",
@@ -69,7 +68,9 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
