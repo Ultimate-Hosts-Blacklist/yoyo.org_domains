@@ -49,14 +49,11 @@
             "clk.konflab.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "gpr.hu"
-        ],
-        "to_test": [
+            "gpr.hu",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
             "logs.logrocket.com",
-            "m4n.nl",
             "mtrcs.samba.tv",
             "name=\"author\"",
             "name=\"description\"",
@@ -72,7 +69,9 @@
             "record.bonniergaming.com",
             "rel='stylesheet'",
             "rel=alternate",
-            "server",
+            "server"
+        ],
+        "to_test": [
             "siteverification.online",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
