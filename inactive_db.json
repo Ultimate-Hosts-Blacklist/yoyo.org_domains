@@ -45,11 +45,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eyeviewads.com",
-            "gpr.hu"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "ads.linuxjournal.com",
+            "gpr.hu",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
@@ -70,7 +66,11 @@
             "rel='stylesheet'",
             "rel=alternate",
             "server",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
+            "ads.linuxjournal.com",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
