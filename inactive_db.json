@@ -66,15 +66,14 @@
             "rel=alternate",
             "rel='stylesheet'",
             "server",
-            "siteverification.online"
-        ],
-        "to_test": [
-            "<title>",
+            "siteverification.online",
             "sx.trhnt.com",
+            "<title>",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
-        ]
+        ],
+        "to_test": []
     }
 }
