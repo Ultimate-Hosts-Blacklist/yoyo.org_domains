@@ -1,6 +1,19 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1536505574": [
+        "1536766154": [
+            "ad.choiceradio.com",
+            "ad.eurosport.com",
+            "adimages.omroepzeeland.nl",
+            "adman.in.gr",
+            "ad.pandora.tv",
+            "ads.adultswim.com",
+            "ads.aol.com",
+            "ads.asia1.com.sg",
+            "ads.batpmturner.com",
+            "adserver.finditquick.com",
+            "adserver.omroepzeeland.nl"
+        ],
+        "to_test": [
             "</body>",
             "</html>",
             "</pre>",
@@ -9,15 +22,8 @@
             "<html>",
             "<p><pre>",
             "<title>",
-            "ad.choiceradio.com",
-            "ad.eurosport.com",
-            "ad.pandora.tv",
-            "adimages.omroepzeeland.nl",
-            "adman.in.gr",
-            "ads.adultswim.com",
-            "ads.aol.com",
-            "ads.asia1.com.sg",
-            "ads.batpmturner.com",
+            "ads.larryaffiliates.com",
+            "ads.linuxjournal.com",
             "ads.moceanads.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -28,8 +34,6 @@
             "ads.trinitymirror.co.uk",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "adserver.finditquick.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -72,10 +76,6 @@
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "ads.linuxjournal.com"
         ]
     }
 }
