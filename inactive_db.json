@@ -61,20 +61,20 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com"
-        ],
-        "to_test": [
-            "<head>",
-            "<title>",
-            "rel='stylesheet'",
-            "rel=alternate",
+            "record.bonniergaming.com",
             "server",
             "siteverification.online",
             "sx.trhnt.com",
+            "<title>",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
+            "<head>",
+            "rel='stylesheet'",
+            "rel=alternate"
         ]
     }
 }
