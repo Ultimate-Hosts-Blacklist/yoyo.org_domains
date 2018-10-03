@@ -64,18 +64,17 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "rel=alternate",
-            "rel='stylesheet'"
-        ],
-        "to_test": [
-            "<head>",
-            "<title>",
-            "adserver.finditquick.com",
+            "rel='stylesheet'",
             "server",
-            "siteverification.online",
             "sx.trhnt.com",
+            "<title>",
             "touchclarity.natwest.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
+            "<head>",
+            "adserver.finditquick.com"
         ]
     }
 }
