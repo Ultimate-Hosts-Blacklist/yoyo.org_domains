@@ -63,17 +63,19 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "rel=alternate"
+            "rel=alternate",
+            "rockabox.co",
+            "server",
+            "sx.trhnt.com",
+            "<title>",
+            "touchclarity.natwest.com",
+            "vutzmxahqio.co",
+            "wantmobi.bid",
+            "webtrends.telegraph.co.uk"
         ],
         "to_test": [
             "<head>",
-            "<title>",
-            "rel='stylesheet'",
-            "server",
-            "sx.trhnt.com",
-            "touchclarity.natwest.com",
-            "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk"
+            "rel='stylesheet'"
         ]
     }
 }
