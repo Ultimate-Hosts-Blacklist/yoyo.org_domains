@@ -63,18 +63,18 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "rel=alternate"
-        ],
-        "to_test": [
-            "<title>",
-            "adserver.finditquick.com",
-            "gpr.hu",
-            "rel='stylesheet'",
+            "rel=alternate",
             "server",
             "sx.trhnt.com",
+            "<title>",
             "touchclarity.natwest.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
+            "adserver.finditquick.com",
+            "gpr.hu",
+            "rel='stylesheet'"
         ]
     }
 }
