@@ -738,7 +738,7 @@
         "adreporting.com": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adrevolver.com": {
             "epoch": "1563926400",
@@ -813,6 +813,11 @@
         "adserver.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "adserver.pl": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
             "state": "future"
         },
         "adserverplus.com": {
