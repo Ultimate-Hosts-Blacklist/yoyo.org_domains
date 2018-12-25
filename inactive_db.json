@@ -81,17 +81,17 @@
             "record.bonniergaming.com",
             "reklamer.com.ua",
             "rel=alternate",
-            "rel='stylesheet'"
-        ],
-        "to_test": [
-            "<title>",
-            "ads.larryaffiliates.com",
-            "counting.kmindex.ru",
+            "rel='stylesheet'",
             "server",
+            "<title>",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
+            "counting.kmindex.ru"
         ]
     }
 }
