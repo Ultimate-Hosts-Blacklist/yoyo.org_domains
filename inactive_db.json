@@ -63,19 +63,14 @@
             "b.aol.com",
             "b.engadget.com",
             "</body>",
-            "<body>"
-        ],
-        "to_test": [
-            "</html>",
-            "</pre>",
-            "<head>",
-            "<html>",
-            "<p><pre>",
-            "ads.larryaffiliates.com",
-            "dmtracking.alibaba.com",
+            "<body>",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "gpr.hu",
+            "<head>",
+            "</html>",
+            "<html>",
             "images.v3.com",
             "impressionz.co.uk",
             "ioam.de",
@@ -93,7 +88,12 @@
             "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
-            "pixel.jumptap.com"
+            "pixel.jumptap.com",
+            "<p><pre>",
+            "</pre>"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com"
         ]
     }
 }
