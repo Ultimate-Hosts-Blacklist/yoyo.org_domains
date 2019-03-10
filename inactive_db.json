@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1552087845": [
+        "1552236275": [
             "</body>",
             "</html>",
             "</pre>",
@@ -27,7 +27,6 @@
             "ads.heias.com",
             "ads.hideyourarms.com",
             "ads.iafrica.com",
-            "ads.img.co.za",
             "ads.larryaffiliates.com",
             "ads.linuxjournal.com",
             "ads.moceanads.com",
@@ -55,7 +54,9 @@
             "advertising.guildlaunch.net",
             "adworx.at",
             "aidu-ads.de",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -305,6 +306,8 @@
             "www.gammamaximum.com",
             "www.giddycoat.com",
             "www.globaltakeoff.net",
+            "www.glossysense.com",
+            "www.go2affise.com",
             "www.gondolagnome.com",
             "www.googlesyndication.com",
             "www.gorgeousground.com",
@@ -651,10 +654,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "www.glossysense.com",
-            "www.go2affise.com"
         ]
     }
 }
