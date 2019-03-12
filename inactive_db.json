@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1552236275": [
+        "1552410221": [
             "</body>",
             "</html>",
             "</pre>",
@@ -12,6 +12,7 @@
             "a.0day.kiev.ua",
             "ad.choiceradio.com",
             "ad.eurosport.com",
+            "ad.nozonedata.com",
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
             "adman.in.gr",
@@ -53,7 +54,9 @@
             "adtrading.de",
             "advertising.guildlaunch.net",
             "adworx.at",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
@@ -340,6 +343,9 @@
             "www.importedincrease.com",
             "www.impossibleexpansion.com",
             "www.impressionz.co.uk",
+            "www.impulsehands.com",
+            "www.imrworldwide.com",
+            "www.inaccused.com",
             "www.incrediblesugar.com",
             "www.indexstats.com",
             "www.indexww.com",
@@ -649,11 +655,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "www.impulsehands.com",
-            "www.imrworldwide.com",
-            "www.inaccused.com"
         ]
     }
 }
