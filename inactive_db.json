@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1552582660": [
+        "1552754639": [
             "</body>",
             "</html>",
             "</pre>",
@@ -13,6 +13,7 @@
             "ad.choiceradio.com",
             "ad.eurosport.com",
             "ad.globe7.com",
+            "ad.nozonedata.com",
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
             "adman.in.gr",
@@ -56,7 +57,9 @@
             "advertising.guildlaunch.net",
             "adworx.at",
             "aidu-ads.de",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -82,6 +85,7 @@
             "pgl.example0101",
             "pixel.jumptap.com",
             "quarterserver.de",
+            "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "rel='stylesheet'",
@@ -335,6 +339,8 @@
             "www.honeygoldfish.com",
             "www.hs-analytics.net",
             "www.hurtteeth.com",
+            "www.hystericalhelp.com",
+            "www.i1img.com",
             "www.iasds01.com",
             "www.ilbanner.com",
             "www.illfatedsnail.com",
@@ -658,11 +664,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "ranking-street.de",
-            "www.hystericalhelp.com",
-            "www.i1img.com"
         ]
     }
 }
