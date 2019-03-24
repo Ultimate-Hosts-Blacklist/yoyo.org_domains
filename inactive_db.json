@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1553273329": [
+        "1553446413": [
             "</body>",
             "</html>",
             "</pre>",
@@ -13,7 +13,6 @@
             "ad.choiceradio.com",
             "ad.eurosport.com",
             "ad.globe7.com",
-            "ad.nozonedata.com",
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
             "adman.in.gr",
@@ -57,7 +56,9 @@
             "advertising.guildlaunch.net",
             "adworx.at",
             "aidu-ads.de",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -86,6 +87,7 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
+            "record.bonniergaming.com",
             "rel='stylesheet'",
             "rel=alternate",
             "server",
@@ -355,6 +357,9 @@
             "www.inquisitiveinvention.com",
             "www.instrumentsponge.com",
             "www.intentmedia.net",
+            "www.inventionpassenger.com",
+            "www.inviterabbits.com",
+            "www.invitesugar.com",
             "www.ivykiosk.com",
             "www.j93557g.com",
             "www.jadeitite.com",
@@ -656,12 +661,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "record.bonniergaming.com",
-            "www.inventionpassenger.com",
-            "www.inviterabbits.com",
-            "www.invitesugar.com"
         ]
     }
 }
