@@ -586,8 +586,8 @@
             "state": "future"
         },
         "adizio.com": {
-            "epoch": "1553558400",
-            "expiration_date": "26-mar-2019",
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
             "state": "future"
         },
         "adjix.com": {
@@ -738,7 +738,7 @@
         "adnet.biz": {
             "epoch": "1553558400",
             "expiration_date": "26-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adnet.ru": {
             "epoch": "1558051200",
@@ -883,6 +883,11 @@
         "ads-click.com": {
             "epoch": "1576713600",
             "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "ads-twitter.com": {
+            "epoch": "1590451200",
+            "expiration_date": "26-may-2020",
             "state": "future"
         },
         "ads.cc": {
