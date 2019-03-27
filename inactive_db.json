@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1553562809": [
+        "1553725980": [
             "</body>",
             "</html>",
             "</pre>",
@@ -48,6 +48,7 @@
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
+            "adserver.43plc.com",
             "adserver.finditquick.com",
             "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
@@ -56,10 +57,13 @@
             "advertising.guildlaunch.net",
             "adworx.at",
             "aidu-ads.de",
-            "analytics.newsinc.com",
+            "analytics.newsinc.com"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
+            "banner.getgo.de",
             "banners.audioholics.com",
             "clickwith.bid",
             "clients.tbo.com",
@@ -379,6 +383,8 @@
             "www.leaplunchroom.com",
             "www.lettucelimit.com",
             "www.liadm.com",
+            "www.lightcushion.com",
+            "www.limpingline.com",
             "www.lizardslaugh.com",
             "www.longinglettuce.com",
             "www.lopsidedspoon.com",
@@ -662,11 +668,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "banner.getgo.de",
-            "www.lightcushion.com",
-            "www.limpingline.com"
         ]
     }
 }
