@@ -3445,6 +3445,11 @@
             "expiration_date": "01-feb-2021",
             "state": "future"
         },
+        "emebo.com": {
+            "epoch": "1615680000",
+            "expiration_date": "14-mar-2021",
+            "state": "future"
+        },
         "emediate.dk": {
             "epoch": "1569801600",
             "expiration_date": "30-sep-2019",
@@ -4426,8 +4431,8 @@
             "state": "future"
         },
         "httpool.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1711670400",
+            "expiration_date": "29-mar-2024",
             "state": "future"
         },
         "hurricanedigitalmedia.com": {
@@ -5293,7 +5298,7 @@
         "mediacharger.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediageneral.com": {
             "epoch": "1555027200",
@@ -5348,6 +5353,11 @@
         "medyanetads.com": {
             "epoch": "1595635200",
             "expiration_date": "25-jul-2020",
+            "state": "future"
+        },
+        "megapu.sh": {
+            "epoch": "1638230400",
+            "expiration_date": "30-nov-2021",
             "state": "future"
         },
         "megastats.com": {
@@ -5616,9 +5626,9 @@
             "state": "future"
         },
         "mylink-today.com": {
-            "epoch": "1553731200",
-            "expiration_date": "28-mar-2019",
-            "state": "past"
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
         },
         "mymoneymakingapp.com": {
             "epoch": "1581984000",
@@ -5951,8 +5961,8 @@
             "state": "future"
         },
         "omniture.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "omtrdc.net": {
@@ -5986,9 +5996,9 @@
             "state": "future"
         },
         "onestat.com": {
-            "epoch": "1553644800",
-            "expiration_date": "27-mar-2019",
-            "state": "past"
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
         },
         "onestatfree.com": {
             "epoch": "1566086400",
@@ -6791,8 +6801,8 @@
             "state": "future"
         },
         "reactx.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "readgoldfish.com": {
