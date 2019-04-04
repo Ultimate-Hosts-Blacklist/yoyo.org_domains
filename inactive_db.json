@@ -57,12 +57,9 @@
             "adworx.at",
             "aidu-ads.de",
             "analytics.newsinc.com",
-            "arc1.msn.com"
-        ],
-        "to_test": [
+            "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
-            "banner.getgo.de",
             "banners.audioholics.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
@@ -91,7 +88,10 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "rel='stylesheet'",
-            "rel=alternate",
+            "rel=alternate"
+        ],
+        "to_test": [
+            "banner.getgo.de",
             "server",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
