@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1554569228": [
+        "1554742482": [
             "</body>",
             "</html>",
             "</pre>",
@@ -57,9 +57,12 @@
             "adworx.at",
             "aidu-ads.de",
             "analytics.newsinc.com",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
+            "banner.getgo.de",
             "banners.audioholics.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
@@ -369,6 +372,9 @@
             "www.jumptap.com",
             "www.justicejudo.com",
             "www.kanoodle.com",
+            "www.karonty.com",
+            "www.knifeoctopus.com",
+            "www.kompasads.com",
             "www.laughablecopper.com",
             "www.laughcloth.com",
             "www.lead-analytics.nl",
@@ -647,12 +653,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "banner.getgo.de",
-            "www.karonty.com",
-            "www.knifeoctopus.com",
-            "www.kompasads.com"
         ]
     }
 }
