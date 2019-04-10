@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1554742482": [
+        "1554914415": [
             "</body>",
             "</html>",
             "</pre>",
@@ -16,6 +16,7 @@
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
             "adman.in.gr",
+            "adrotate.de",
             "ads.adultswim.com",
             "ads.ak.facebook.com.edgesuite.net",
             "ads.aol.com",
@@ -57,7 +58,9 @@
             "adworx.at",
             "aidu-ads.de",
             "analytics.newsinc.com",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -357,6 +360,8 @@
             "www.inaccused.com",
             "www.indexstats.com",
             "www.indexww.com",
+            "www.innocentwax.com",
+            "www.inquisitiveinvention.com",
             "www.instrumentsponge.com",
             "www.intentmedia.net",
             "www.interstat.hu",
@@ -651,10 +656,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "www.innocentwax.com",
-            "www.inquisitiveinvention.com"
         ]
     }
 }
