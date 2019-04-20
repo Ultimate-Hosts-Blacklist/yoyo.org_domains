@@ -91,11 +91,7 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "rel='stylesheet'",
-            "rel=alternate"
-        ],
-        "to_test": [
-            "banner.getgo.de",
-            "bannerexchange.cjb.net",
+            "rel=alternate",
             "server",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
@@ -384,7 +380,11 @@
             "www.kompasads.com",
             "www.laughablecopper.com",
             "www.laughcloth.com",
-            "www.lead-analytics.nl",
+            "www.lead-analytics.nl"
+        ],
+        "to_test": [
+            "banner.getgo.de",
+            "bannerexchange.cjb.net",
             "www.leaplunchroom.com",
             "www.lettucelimit.com",
             "www.liadm.com",
