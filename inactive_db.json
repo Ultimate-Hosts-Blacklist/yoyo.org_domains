@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1555951820": [
+        "1556124708": [
             "</body>",
             "</html>",
             "</pre>",
@@ -58,10 +58,14 @@
             "advertising.guildlaunch.net",
             "adworx.at",
             "aidu-ads.de",
-            "analytics.newsinc.com",
+            "analytics.newsinc.com"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
+            "banner.getgo.de",
+            "bannerexchange.cjb.net",
             "banners.audioholics.com",
             "clickwith.bid",
             "clients.tbo.com",
@@ -371,6 +375,7 @@
             "www.inventionpassenger.com",
             "www.inviterabbits.com",
             "www.invitesugar.com",
+            "www.ivykiosk.com",
             "www.j93557g.com",
             "www.jadeitite.com",
             "www.jaizouji.com",
@@ -662,11 +667,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "banner.getgo.de",
-            "bannerexchange.cjb.net",
-            "www.ivykiosk.com"
         ]
     }
 }
