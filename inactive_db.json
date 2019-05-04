@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1556815809": [
+        "1556989300": [
             "</body>",
             "</html>",
             "</pre>",
@@ -46,6 +46,7 @@
             "ads.tripod.spray.se",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "ads.yourfreedvds.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
@@ -55,9 +56,12 @@
             "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
-            "adworx.at",
+            "adworx.at"
+        ],
+        "to_test": [
             "aidu-ads.de",
             "analytics.newsinc.com",
+            "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -90,6 +94,7 @@
             "pgl.example0101",
             "pixel.jumptap.com",
             "quarterserver.de",
+            "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "rel='stylesheet'",
@@ -351,6 +356,10 @@
             "www.honeygoldfish.com",
             "www.hs-analytics.net",
             "www.hsadspixel.net",
+            "www.hurtteeth.com",
+            "www.hystericalhelp.com",
+            "www.i1img.com",
+            "www.iasds01.com",
             "www.ilbanner.com",
             "www.illfatedsnail.com",
             "www.illustriousoatmeal.com",
@@ -666,14 +675,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "arc1.msn.com",
-            "ranking-street.de",
-            "www.hurtteeth.com",
-            "www.hystericalhelp.com",
-            "www.i1img.com",
-            "www.iasds01.com"
         ]
     }
 }
