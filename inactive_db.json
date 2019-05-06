@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1556989300": [
+        "1557162125": [
             "</body>",
             "</html>",
             "</pre>",
@@ -22,6 +22,7 @@
             "ads.ak.facebook.com.edgesuite.net",
             "ads.aol.com",
             "ads.asia1.com.sg",
+            "ads.canalblog.com",
             "ads.cgnetworks.com",
             "ads.datinggold.com",
             "ads.eatinparis.com",
@@ -57,7 +58,10 @@
             "adtrading.de",
             "advertising.guildlaunch.net",
             "adworx.at",
-            "analytics.newsinc.com",
+            "aidu-ads.de",
+            "analytics.newsinc.com"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
@@ -292,6 +296,7 @@
             "www.enviousthread.com",
             "www.erne.co",
             "www.errortablet.com",
+            "www.eventbeacon.ca",
             "www.exclusivebrass.com",
             "www.exitexchange.com",
             "www.exogripper.com",
@@ -671,10 +676,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "aidu-ads.de",
-            "www.eventbeacon.ca"
         ]
     }
 }
