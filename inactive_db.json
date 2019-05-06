@@ -59,10 +59,7 @@
             "advertising.guildlaunch.net",
             "adworx.at",
             "aidu-ads.de",
-            "analytics.newsinc.com"
-        ],
-        "to_test": [
-            "arc1.msn.com",
+            "analytics.newsinc.com",
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -86,7 +83,6 @@
             "name=\"author\"",
             "name=\"description\"",
             "name=\"keywords\"",
-            "netpool.netbookia.net",
             "oas.salon.com",
             "oewabox.at",
             "of",
@@ -99,7 +95,10 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "rel='stylesheet'",
-            "rel=alternate",
+            "rel=alternate"
+        ],
+        "to_test": [
+            "arc1.msn.com",
             "server",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
