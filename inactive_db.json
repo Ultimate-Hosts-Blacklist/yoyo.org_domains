@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_domains/domains.list": {
-        "1557334427": [
+        "1557507698": [
             "</body>",
             "</html>",
             "</pre>",
@@ -47,7 +47,6 @@
             "ads.tripod.spray.se",
             "ads.web.aol.com",
             "ads.web.cs.com",
-            "ads.yourfreedvds.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.iafrica.com",
@@ -57,8 +56,12 @@
             "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
-            "adworx.at",
+            "adworx.at"
+        ],
+        "to_test": [
             "aidu-ads.de",
+            "analytics.newsinc.com",
+            "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
@@ -307,6 +310,10 @@
             "www.faultyfowl.com",
             "www.feebleshock.com",
             "www.fimserve.com",
+            "www.firstlightera.com",
+            "www.flakyfeast.com",
+            "www.flimsycircle.com",
+            "www.floodprincipal.com",
             "www.fourarithmetic.com",
             "www.frailoffer.com",
             "www.frightenedpotato.com",
@@ -671,14 +678,6 @@
             "www.zlp6s.pw",
             "www.zm232.com",
             "www.zqtk.net"
-        ],
-        "to_test": [
-            "analytics.newsinc.com",
-            "arc1.msn.com",
-            "www.firstlightera.com",
-            "www.flakyfeast.com",
-            "www.flimsycircle.com",
-            "www.floodprincipal.com"
         ]
     }
 }
