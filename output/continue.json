@@ -4394,7 +4394,8 @@
         "www.foresee.com",
         "sidebar.angelfire.com",
         "www.advertmedia.de",
-        "advertmedia.de"
+        "advertmedia.de",
+        "ad.profiwin.de"
     ],
     "INACTIVE": [
         "ad.xiaomi.com",
@@ -4971,7 +4972,25 @@
         "www.apolloprogram.io",
         "www.tastefulsongs.com",
         "www.spirebaboon.com",
-        "www.visitpath.com"
+        "www.visitpath.com",
+        "arc1.msn.com",
+        "www.clickwith.bid",
+        "ads.getlucky.com",
+        "clickwith.bid",
+        "openad.tf1.fr",
+        "webtrends.telegraph.co.uk",
+        "touchclarity.natwest.com",
+        "record.affiliates.karjalakasino.com",
+        "adsrv.eacdn.com",
+        "ads.larryaffiliates.com",
+        "mtrcs.samba.tv",
+        "ads.saymedia.com",
+        "adimages.omroepzeeland.nl",
+        "record.bonniergaming.com",
+        "ads.quasaraffiliates.com",
+        "ads.trinitymirror.co.uk",
+        "ads.toplayaffiliates.com",
+        "ads.crakmedia.com"
     ],
     "INVALID": [
         "<p><pre>",
@@ -4979,6 +4998,15 @@
         "rel=alternate",
         "name=\"keywords\"",
         "</pre>",
-        "of"
+        "of",
+        "<body>",
+        "</body>",
+        "<html>",
+        "<title>",
+        "<head>",
+        "pgl.example0101",
+        "</html>",
+        "rel='stylesheet'",
+        "name=\"description\""
     ]
 }

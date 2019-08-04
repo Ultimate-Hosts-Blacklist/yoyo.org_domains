@@ -644,6 +644,11 @@
         "expiration_date": "02-sep-2019",
         "state": "future"
     },
+    "agreeablestew.com": {
+        "epoch": 1606694400,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "ah-ha.com": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
@@ -1649,6 +1654,11 @@
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "earthycopy.com": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
     "ebayadvertising.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
@@ -2177,6 +2187,11 @@
     "i-clicks.net": {
         "epoch": 1570492800,
         "expiration_date": "08-oct-2019",
+        "state": "future"
+    },
+    "iasds01.com": {
+        "epoch": 1704758400,
+        "expiration_date": "09-jan-2024",
         "state": "future"
     },
     "idtargeting.com": {
@@ -2876,7 +2891,7 @@
     },
     "netincap.com": {
         "epoch": 1594166400,
-        "expiration_date": "08-jul-2020",
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "netshelter.net": {
@@ -4789,4 +4804,5 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     }
+}}
 }
