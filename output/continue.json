@@ -4373,7 +4373,13 @@
         "adwhirl.com",
         "ad.profiwin.de",
         "ads-twitter.com",
-        "webtracky.com"
+        "webtracky.com",
+        "visitpath.com",
+        "webcontentassessor.com",
+        "mmismm.com",
+        "www.adscpm.com",
+        "krxd.net",
+        "iasds01.com"
     ],
     "INACTIVE": [
         "www.screechingfurniture.com",
@@ -5012,7 +5018,10 @@
         "518ad.com",
         "servedby-buysellads.com",
         "ads.web.cs.com",
-        "amazon-adsystem.com"
+        "amazon-adsystem.com",
+        "record.bonniergaming.com",
+        "arc1.msn.com",
+        "openad.tf1.fr"
     ],
     "INVALID": [
         "name=\"author\"",
@@ -5027,6 +5036,8 @@
         "name=\"keywords\"",
         "<title>",
         "</html>",
-        "</body>"
+        "</body>",
+        "rel=alternate",
+        "of"
     ]
 }
