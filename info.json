@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 1,
+        "builds": 2,
         "counter": {
-            "down": 216,
+            "down": 444,
             "invalid": 0,
-            "tested": 1915,
-            "up": 1699
+            "tested": 3909,
+            "up": 3465
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Wed Aug 21 18:48:00 2019",
     "end_epoch": 1566413280.365748,
-    "last_autosave_datetime": "Fri Aug 23 18:12:47 2019",
-    "last_autosave_epoch": 1566583967.987206,
+    "last_autosave_datetime": "Fri Aug 23 18:42:58 2019",
+    "last_autosave_epoch": 1566585778.024232,
     "name": "yoyo.org_domains",
     "previous_stats": {
         "builds": 3,
