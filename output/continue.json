@@ -4399,7 +4399,8 @@
         "mzbcdn.net",
         "adnetinteractive.com",
         "www.adnetinteractive.com",
-        "ad.preferances.com"
+        "ad.preferances.com",
+        "potenza.cz"
     ],
     "INACTIVE": [
         "www.selectivesummer.com",
@@ -5001,7 +5002,16 @@
         "dmtracking.alibaba.com",
         "media.ftv-publicite.fr",
         "record.bonniergaming.com",
-        "adsrv.eacdn.com"
+        "adsrv.eacdn.com",
+        "record.affiliates.karjalakasino.com",
+        "ads.motor-forum.nl",
+        "touchclarity.natwest.com",
+        "www.boersego-ads.de",
+        "boersego-ads.de",
+        "openad.tf1.fr",
+        "ads.quasaraffiliates.com",
+        "ad.eurosport.com",
+        "ads.saymedia.com"
     ],
     "INVALID": [
         "<title>",
@@ -5016,6 +5026,8 @@
         "</body>",
         "rel=alternate",
         "<body>",
-        "name=\"description\""
+        "name=\"description\"",
+        "pgl.example0101",
+        "rel='stylesheet'"
     ]
 }
