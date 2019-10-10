@@ -5029,7 +5029,9 @@
         "www.advfromnwl.com",
         "dmtracking2.alibaba.com",
         "oas.foxnews.com",
-        "dmtracking.alibaba.com"
+        "dmtracking.alibaba.com",
+        "ads.toplayaffiliates.com",
+        "ad.eurosport.com"
     ],
     "INVALID": [
         "</body>",
@@ -5051,6 +5053,7 @@
         "stripedburst.c:",
         "<body>",
         "pgl.example0101",
-        "</pre>"
+        "</pre>",
+        "<head>"
     ]
 }
