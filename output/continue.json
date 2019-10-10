@@ -4392,7 +4392,13 @@
         "adserver.digitoday.com",
         "www.photo-ads.co.uk",
         "photo-ads.co.uk",
-        "mzbcdn.net"
+        "mzbcdn.net",
+        "newtopsites.com",
+        "www.freestats.tv",
+        "www.boersego-ads.de",
+        "freestats.tv",
+        "boersego-ads.de",
+        "spottysense.com"
     ],
     "INACTIVE": [
         "www.waryfog.com",
@@ -4990,7 +4996,17 @@
         "ads.motor-forum.nl",
         "ads.elcarado.com",
         "webtrends.telegraph.co.uk",
-        "www.mzbcdn.net"
+        "www.mzbcdn.net",
+        "www.newtopsites.com",
+        "ads.saymedia.com",
+        "bestboundarbarbarousnerve.com",
+        "www.bestboundarbarbarousnerve.com",
+        "adsrv.eacdn.com",
+        "adserver.omroepzeeland.nl",
+        "www.spottysense.com",
+        "www.adsk2.co",
+        "adserver1.ogilvy-interactive.de",
+        "adsk2.co"
     ],
     "INVALID": [
         "</body>",
@@ -5002,6 +5018,10 @@
         "<title>",
         "rel='stylesheet'",
         "www.sombersurprise.c:",
-        "sombersurprise.c:"
+        "sombersurprise.c:",
+        "<html>",
+        "name=\"keywords\"",
+        "of",
+        "name=\"description\""
     ]
 }
