@@ -2299,6 +2299,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "chartbeat.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
     "chartbeat.net": {
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
@@ -3365,7 +3370,7 @@
         "state": "future"
     },
     "emediate.dk": {
-        "epoch": 1569801600,
+        "epoch": 1569801600.0,
         "expiration_date": "30-sep-2019",
         "state": "past"
     },
@@ -5535,8 +5540,8 @@
         "state": "future"
     },
     "muwmedia.com": {
-        "epoch": 1573171200,
-        "expiration_date": "08-nov-2019",
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "mxptint.net": {
@@ -8087,6 +8092,11 @@
     "top-site-list.com": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "top123.ro": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "top20free.com": {
