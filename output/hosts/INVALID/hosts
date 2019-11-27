@@ -38,3 +38,16 @@
 0.0.0.0 banners,
 0.0.0.0 href='/css/pgl.css'
 0.0.0.0 blocking
+0.0.0.0 <head>
+0.0.0.0 type="application/rss+xml"
+0.0.0.0 format)">
+0.0.0.0 rel='stylesheet'
+0.0.0.0 privacy">
+0.0.0.0 name="author"
+0.0.0.0 </pre>
+0.0.0.0 value="Blocklist
+0.0.0.0 name="keywords"
+0.0.0.0 title="Blocklist
+0.0.0.0 <body>
+0.0.0.0 (RSS
+0.0.0.0 (format:
