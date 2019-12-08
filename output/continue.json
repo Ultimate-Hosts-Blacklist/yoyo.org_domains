@@ -4815,7 +4815,8 @@
         "www.methodcash.com",
         "admax.nexage.com",
         "ads.colombiaonline.com",
-        "adsstat.com"
+        "adsstat.com",
+        "emediate.dk"
     ],
     "INACTIVE": [
         "www.erne.co",
@@ -5402,7 +5403,15 @@
         "dsp.colpirio.com",
         "www.clickwith.bid",
         "clickwith.bid",
-        "www.adsstat.com"
+        "www.adsstat.com",
+        "ad1.emediate.dk",
+        "ads.creativematch.com",
+        "www.emediate.dk",
+        "ad.xiaomi.com",
+        "mtrcs.samba.tv",
+        "stats.directnic.com",
+        "ads.recoletos.es",
+        "banners.directnic.com"
     ],
     "INVALID": [
         "others",
@@ -5426,6 +5435,34 @@
         "(RSS",
         "file,",
         "<title>",
-        "title=\"Blocklist"
+        "title=\"Blocklist",
+        "</body>",
+        "name=\"description\"",
+        "trackers,",
+        "--",
+        "privacy\">",
+        "last",
+        "rel='stylesheet'",
+        "hostnames",
+        "value=\"ad",
+        "<p><pre>",
+        "format)\">",
+        "value=\"Peter",
+        "</html>",
+        "<html>",
+        "(format:",
+        "blocking,",
+        "<body>",
+        "trackers",
+        "servers,",
+        "type=\"application/rss+xml\"",
+        "hosts",
+        "of",
+        "rel=alternate",
+        "50",
+        "type='text/css'></head>",
+        "pgl.example0101",
+        "name=\"author\"",
+        "and"
     ]
 }
