@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 79,
+            "invalid": 3,
+            "tested": 632,
+            "up": 550
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Dec 15 22:40:12 2019",
     "end_epoch": 1576449612.630089,
-    "last_autosave_datetime": "Sun Dec 15 21:52:13 2019",
-    "last_autosave_epoch": 1576446733.042021,
+    "last_autosave_datetime": "Mon Dec 16 23:08:43 2019",
+    "last_autosave_epoch": 1576537723.228374,
     "name": "yoyo.org_domains",
     "previous_stats": {
         "builds": 8,
@@ -20,6 +29,6 @@
         "whitelisted.list": 4817
     },
     "raw_link": "https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0",
-    "start_datetime": "Sun Dec 15 16:02:46 2019",
-    "start_epoch": 1576425766.615947
+    "start_datetime": "Mon Dec 16 22:58:42 2019",
+    "start_epoch": 1576537122.531928
 }
