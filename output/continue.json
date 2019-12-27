@@ -4825,7 +4825,8 @@
         "counter.nowlinux.com",
         "emediate.dk",
         "bedsbreath.com",
-        "webangel.ru"
+        "webangel.ru",
+        "banners.babylon-x.com"
     ],
     "INACTIVE": [
         "www.adform.net",
@@ -5424,7 +5425,10 @@
         "ad1.emediate.dk",
         "www.webangel.ru",
         "mtrcs.samba.tv",
-        "feynmanhopeful.eu"
+        "feynmanhopeful.eu",
+        "banners.directnic.com",
+        "ads.creativematch.com",
+        "stats.directnic.com"
     ],
     "INVALID": [
         "href=\"rss/1.0/adservers.rss\">",
@@ -5464,6 +5468,18 @@
         "rel='stylesheet'",
         "</html>",
         "servers,",
-        "title=\"Blocklist"
+        "title=\"Blocklist",
+        "trackers",
+        "trackers,",
+        "format)",
+        "last",
+        "<title>",
+        "file,",
+        "50",
+        "banners,",
+        "name=\"author\"",
+        "</body>",
+        "added)\"",
+        "format)</title>"
     ]
 }
