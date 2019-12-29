@@ -4819,7 +4819,11 @@
         "bedsbreath.com",
         "123found.com",
         "webangel.ru",
-        "ad2flash.com"
+        "ad2flash.com",
+        "emediate.dk",
+        "banners.babylon-x.com",
+        "adsstat.com",
+        "ads.yourfreedvds.com"
     ],
     "INACTIVE": [
         "www.chairscrack.com",
@@ -5409,7 +5413,20 @@
         "www.ad2flash.com",
         "dsp.colpirio.com",
         "ads.cricbuzz.com",
-        "stats.directnic.com"
+        "stats.directnic.com",
+        "ads.forium.de",
+        "adsrv.eacdn.com",
+        "ad.xiaomi.com",
+        "ad1.emediate.dk",
+        "banners.directnic.com",
+        "ads.recoletos.es",
+        "www.emediate.dk",
+        "www.feynmanhopeful.eu",
+        "feynmanhopeful.eu",
+        "www.adsstat.com",
+        "www.exchange.bg",
+        "exchange.bg",
+        "mtrcs.samba.tv"
     ],
     "INVALID": [
         "pgl@yoyo.org\">",
@@ -5440,6 +5457,27 @@
         "<p><pre>",
         "servers,",
         "--",
-        "</html>"
+        "</html>",
+        "type=\"application/rss+xml\"",
+        "href='/css/pgl.css'",
+        "<head>",
+        "rel='stylesheet'",
+        "blocking,",
+        "file,",
+        "title=\"Blocklist",
+        "format)",
+        "trackers,",
+        "value=\"Blocklist",
+        "privacy\">",
+        "name=\"keywords\"",
+        "of",
+        "ads,",
+        "(RSS",
+        "and",
+        "type='text/css'></head>",
+        "hostnames",
+        "Lowe;",
+        "value=\"Peter",
+        "<body>"
     ]
 }
