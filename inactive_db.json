@@ -26,7 +26,6 @@
             "www.fadedprofit.com": "INACTIVE"
         },
         "1574881526": {
-            "blocking,": "INVALID",
             "www.sleepcartoon.com": "INACTIVE"
         },
         "1574881527": {
@@ -3156,9 +3155,6 @@
         "1575059152": {
             "trackers": "INVALID"
         },
-        "1575059162": {
-            "blocking,": "INVALID"
-        },
         "1575067295": {
             "www.adhaven.com": "INACTIVE"
         },
@@ -6236,8 +6232,7 @@
             "www.fuzzyflavor.com": "INACTIVE"
         },
         "1575831441": {
-            "blocking": "INVALID",
-            "blocking,": "INVALID"
+            "blocking": "INVALID"
         },
         "1575831444": {
             "ad1.emediate.dk": "INACTIVE"
@@ -22817,9 +22812,6 @@
         "1577590064": {
             "<head>": "INVALID"
         },
-        "1577590086": {
-            "blocking,": "INVALID"
-        },
         "1577590098": {
             "ads.forium.de": "INACTIVE"
         },
@@ -24401,6 +24393,61 @@
         },
         "1577759838": {
             "www.indexww.com": "INACTIVE"
+        },
+        "1577762504": {
+            "www.ad2flash.com": "INACTIVE"
+        },
+        "1577762519": {
+            "name=\"author\"": "INVALID"
+        },
+        "1577762552": {
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1577762622": {
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1577762648": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1577762658": {
+            "www.adsstat.com": "INACTIVE"
+        },
+        "1577762670": {
+            "www.feynmanhopeful.eu": "INACTIVE"
+        },
+        "1577762739": {
+            "ads.cricbuzz.com": "INACTIVE"
+        },
+        "1577762770": {
+            "dsp.colpirio.com": "INACTIVE"
+        },
+        "1577762790": {
+            "(format:": "INVALID"
+        },
+        "1577762791": {
+            "title=\"Blocklist": "INVALID"
+        },
+        "1577762801": {
+            "www.clickwith.bid": "INACTIVE"
+        },
+        "1577762826": {
+            "servers,": "INVALID"
+        },
+        "1577762829": {
+            "trackers,": "INVALID"
+        },
+        "1577762840": {
+            "50": "INVALID"
+        },
+        "1577762846": {
+            "-": "INVALID",
+            "www.bedsbreath.com": "INACTIVE"
+        },
+        "1577762874": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1577762884": {
+            "blocking,": "INVALID"
         }
     }
 }
