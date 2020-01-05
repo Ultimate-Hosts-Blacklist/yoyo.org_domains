@@ -4823,7 +4823,11 @@
         "ad4max.com",
         "bedsbreath.com",
         "banners.babylon-x.com",
-        "123found.com"
+        "123found.com",
+        "adsstat.com",
+        "ad2flash.com",
+        "ads.yourfreedvds.com",
+        "counter.nowlinux.com"
     ],
     "INACTIVE": [
         "www.pgmediaserve.com",
@@ -5426,7 +5430,13 @@
         "bans.adserver.co.il",
         "www.123found.com",
         "adserver.dca13.com",
-        "ads.canalblog.com"
+        "ads.canalblog.com",
+        "adsrv.eacdn.com",
+        "ad.xiaomi.com",
+        "www.adsstat.com",
+        "ads.cricbuzz.com",
+        "ads.forium.de",
+        "www.ad2flash.com"
     ],
     "INVALID": [
         "</pre>",
@@ -5461,6 +5471,23 @@
         "value=\"Blocklist",
         "value=\"ad",
         "<title>",
-        "hostnames"
+        "hostnames",
+        "</html>",
+        "<html>",
+        "hosts",
+        "ads,",
+        "and",
+        "type='text/css'></head>",
+        "rel='stylesheet'",
+        "format)\">",
+        "-",
+        "--",
+        "trackers",
+        "last",
+        "value=\"Peter",
+        "file,",
+        "pgl@yoyo.org\">",
+        "type=\"application/rss+xml\"",
+        "rel=alternate"
     ]
 }
