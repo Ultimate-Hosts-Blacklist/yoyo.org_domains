@@ -475,9 +475,9 @@
         "state": "future"
     },
     "adconion.com": {
-        "epoch": 1578528000,
+        "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adcontrolsolutions.net": {
         "epoch": 1593129600.0,
@@ -2965,9 +2965,9 @@
         "state": "future"
     },
     "concernrain.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "connatix.com": {
         "epoch": 1604620800,
@@ -8487,7 +8487,7 @@
     "staticwebcontent.net": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "statistik-gallup.net": {
         "epoch": 1578960000,
