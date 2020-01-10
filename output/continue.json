@@ -4824,7 +4824,8 @@
         "ads.yourfreedvds.com",
         "counter.nowlinux.com",
         "newnet.qsrch.com",
-        "bedsbreath.com"
+        "bedsbreath.com",
+        "ad4max.com"
     ],
     "INACTIVE": [
         "www.hardtofindmilk.com",
@@ -5430,7 +5431,12 @@
         "banners.directnic.com",
         "a.aproductmsg.com",
         "stats.directnic.com",
-        "www.bedsbreath.com"
+        "www.bedsbreath.com",
+        "mtrcs.samba.tv",
+        "www.ad4max.com",
+        "ads.canalblog.com",
+        "adsrv.eacdn.com",
+        "dsp.colpirio.com"
     ],
     "INVALID": [
         "file",
@@ -5477,6 +5483,11 @@
         "(format:",
         "</body>",
         "(RSS",
-        "value=\"ad"
+        "value=\"ad",
+        "blocking",
+        "trackers,",
+        "</pre>",
+        "format)\">",
+        "file,"
     ]
 }
