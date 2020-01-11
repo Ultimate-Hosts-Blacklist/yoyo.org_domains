@@ -4821,7 +4821,9 @@
         "ads.yourfreedvds.com",
         "ad.nwt.cz",
         "bedsbreath.com",
-        "ad4max.com"
+        "ad4max.com",
+        "freemaineads.com",
+        "ad2flash.com"
     ],
     "INACTIVE": [
         "www.unknowntray.com",
@@ -5429,7 +5431,13 @@
         "a.aproductmsg.com",
         "bans.adserver.co.il",
         "feynmanhopeful.eu",
-        "www.feynmanhopeful.eu"
+        "www.feynmanhopeful.eu",
+        "www.freemaineads.com",
+        "www.exchange.bg",
+        "exchange.bg",
+        "www.ad2flash.com",
+        "ad1.emediate.dk",
+        "ads.creativematch.com"
     ],
     "INVALID": [
         "file",
@@ -5474,6 +5482,13 @@
         "type=\"application/rss+xml\"",
         "value=\"Blocklist",
         "for",
-        "<p><pre>"
+        "<p><pre>",
+        "value=\"Peter",
+        "50",
+        "</body>",
+        "trackers,",
+        "pgl@yoyo.org\">",
+        "trackers",
+        "href='/css/pgl.css'"
     ]
 }
