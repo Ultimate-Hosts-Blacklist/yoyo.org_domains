@@ -4832,7 +4832,10 @@
         "banners.babylon-x.com",
         "webangel.ru",
         "emediate.dk",
-        "c1.nowlinux.com"
+        "c1.nowlinux.com",
+        "newnet.qsrch.com",
+        "bedsbreath.com",
+        "www.bedsbreath.com"
     ],
     "INACTIVE": [
         "www.defectivesun.com",
@@ -5437,7 +5440,16 @@
         "www.emediate.dk",
         "ad1.emediate.dk",
         "mtrcs.samba.tv",
-        "stats.directnic.com"
+        "stats.directnic.com",
+        "feynmanhopeful.eu",
+        "www.feynmanhopeful.eu",
+        "a.aproductmsg.com",
+        "ads.forium.de",
+        "ads.canalblog.com",
+        "ads.recoletos.es",
+        "topbarh.box.sk",
+        "ads.creativematch.com",
+        "ads.cricbuzz.com"
     ],
     "INVALID": [
         "file",
@@ -5477,6 +5489,18 @@
         "Lowe;",
         "<body>",
         "<p><pre>",
-        "(format:"
+        "(format:",
+        "hosts",
+        "--",
+        "value=\"Blocklist",
+        "others",
+        "value=\"Peter",
+        "pgl@yoyo.org\">",
+        "name=\"keywords\"",
+        "trackers,",
+        "</pre>",
+        "-",
+        "(RSS",
+        "and"
     ]
 }
