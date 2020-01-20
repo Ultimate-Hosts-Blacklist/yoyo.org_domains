@@ -135,9 +135,9 @@
         "state": "future"
     },
     "777partner.com": {
-        "epoch": 1579478400,
+        "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "77tracking.com": {
         "epoch": 1586217600,
@@ -8104,6 +8104,11 @@
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
+    "shockinggrass.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "shoppingads.com": {
         "epoch": 1600128000,
         "expiration_date": "15-sep-2020",
@@ -8420,9 +8425,9 @@
         "state": "future"
     },
     "spykemediatrack.com": {
-        "epoch": 1579478400,
+        "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "spylog.com": {
         "epoch": 1634256000,
