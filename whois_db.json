@@ -1870,9 +1870,9 @@
         "state": "future"
     },
     "avsads.com": {
-        "epoch": 1580256000,
+        "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "awempire.com": {
         "epoch": 1606780800,
@@ -5905,9 +5905,9 @@
         "state": "future"
     },
     "mediavine.com": {
-        "epoch": 1580256000,
+        "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mediavoice.com": {
         "epoch": 1591315200,
@@ -6545,8 +6545,8 @@
         "state": "future"
     },
     "nzaza.com": {
-        "epoch": 1579910400,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "o0bc.com": {
@@ -8075,8 +8075,8 @@
         "state": "future"
     },
     "sexcounter.com": {
-        "epoch": 1580256000,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "sexinyourcity.com": {
@@ -8957,6 +8957,11 @@
     "textlinks.com": {
         "epoch": 1603065600,
         "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "the-ozone-project.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "theadex.com": {
