@@ -4902,7 +4902,11 @@
         "ads.businessweek.com",
         "newnet.qsrch.com",
         "ad.doctissimo.fr",
-        "reklamer.com.ua"
+        "reklamer.com.ua",
+        "adimages.omroepzeeland.nl",
+        "trafficz.net",
+        "ads.flooble.com",
+        "openad.tf1.fr"
     ],
     "INACTIVE": [
         "www.consciouschairs.com",
@@ -5525,7 +5529,8 @@
         "afterview.ru",
         "www.afterview.ru",
         "ads.canalblog.com",
-        "www.reklamer.com.ua"
+        "www.reklamer.com.ua",
+        "www.trafficz.net"
     ],
     "INVALID": [
         "hostnames",
@@ -5570,6 +5575,13 @@
         "ads,",
         "href='/css/pgl.css'",
         "Lowe;",
-        "<title>"
+        "<title>",
+        "pgl.example0101",
+        "privacy\">",
+        "(format:",
+        "value=\"ad",
+        "value=\"Blocklist",
+        "href=\"rss/1.0/adservers.rss\">",
+        "blocking"
     ]
 }
