@@ -4903,7 +4903,9 @@
         "trafficz.net",
         "banners.babylon-x.com",
         "ads.quasaraffiliates.com",
-        "bamgrid.com"
+        "bamgrid.com",
+        "ads.larryaffiliates.com",
+        "ads.bloomberg.com"
     ],
     "INACTIVE": [
         "www.ebuzzing.com",
@@ -5519,7 +5521,9 @@
         "ads.olivebrandresponse.com",
         "newnet.qsrch.com",
         "www.bamgrid.com",
-        "ads.canalblog.com"
+        "ads.canalblog.com",
+        "adsrv.eacdn.com",
+        "banner.webmersion.com"
     ],
     "INVALID": [
         "blocking",
@@ -5557,6 +5561,20 @@
         "of",
         "</pre>",
         "name=\"description\"",
-        "value=\"ad"
+        "value=\"ad",
+        "hostnames",
+        "format)</title>",
+        "ads,",
+        "banners,",
+        "for",
+        "title=\"Blocklist",
+        "hosts",
+        "type='text/css'></head>",
+        "rel=alternate",
+        "rel='stylesheet'",
+        "format)\">",
+        "</html>",
+        "privacy\">",
+        "href=\"rss/1.0/adservers.rss\">"
     ]
 }
