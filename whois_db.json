@@ -955,9 +955,9 @@
         "state": "future"
     },
     "adrotator.se": {
-        "epoch": 1582329600,
+        "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adrta.com": {
         "epoch": 1687392000,
@@ -2195,8 +2195,8 @@
         "state": "future"
     },
     "bigclicks.com": {
-        "epoch": 1582329600,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "bigreal.org": {
