@@ -260,9 +260,9 @@
         "state": "future"
     },
     "actualdeals.com": {
-        "epoch": 1583020800,
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "actuallysheep.com": {
         "epoch": 1584748800,
@@ -540,9 +540,9 @@
         "state": "future"
     },
     "adflight.com": {
-        "epoch": 1583020800,
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adforce.com": {
         "epoch": 1596326400,
@@ -10105,8 +10105,8 @@
         "state": "future"
     },
     "whoisonline.net": {
-        "epoch": 1583020800,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "wholesaletraffic.info": {
