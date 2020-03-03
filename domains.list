@@ -1,7 +1,28 @@
-(format:
-(RSS
--
---
+<html>
+<head>
+['name="author"', 'value="Peter', 'Lowe;', 'pgl@yoyo.org">']
+['name="description"', 'value="Blocklist', 'of', 'hostnames', 'and', 'domains', 'for', 'blocking', 'ads,', 'trackers', 'and', 'others', '(format:', 'hosts', '--', 'in', 'hosts', 'file', 'format)">']
+['name="keywords"', 'value="ad', 'blocking,', 'blocking', 'ads,', 'ad', 'servers,', 'trackers,', 'ads,', 'banners,', 'hosts', 'file,', 'privacy">']
+['rel=alternate', 'type="application/rss+xml"', 'title="Blocklist', 'of', 'hostnames', 'and', 'domains', 'for', 'blocking', 'ads,', 'trackers', 'and', 'others', '(format:', 'hosts', '--', 'in', 'hosts', 'file', 'format)', '(RSS', '-', 'last', '50', 'added)"', 'href="rss/1.0/adservers.rss">']
+<title>
+['of', 'hostnames', 'and', 'domains', 'for', 'blocking', 'ads,', 'trackers', 'and', 'others', '(format:', 'hosts', '--', 'in', 'hosts', 'file', 'format)</title>']
+["rel='stylesheet'", "href='/css/pgl.css'", "type='text/css'></head>"]
+<body>
+<p><pre>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
 1-1ads.com
 101com.com
 101order.com
@@ -25,7 +46,6 @@
 4d5.net
 4info.com
 4jnzhl0d0.com
-50
 50websads.com
 518ad.com
 51yes.com
@@ -37,14 +57,6 @@
 7search.com
 82o9v830.com
 99count.com
-</body>
-</html>
-</pre>
-<body>
-<head>
-<html>
-<p><pre>
-<title>
 a.aproductmsg.com
 a.consumer.net
 a.mktw.net
@@ -79,7 +91,6 @@ actuallysheep.com
 actuallysnake.com
 acuityads.com
 acuityplatform.com
-ad
 ad-balancer.at
 ad-balancer.net
 ad-delivery.net
@@ -225,7 +236,6 @@ adcontent.gamespy.com
 adcontrolsolutions.net
 adcycle.com
 add.newmedia.cz
-added)"
 addfreestats.com
 addme.com
 adecn.com
@@ -360,7 +370,6 @@ adrotate.de
 adrotator.se
 adrotic.girlonthenet.com
 adrta.com
-ads,
 ads-click.com
 ads-game-187f4.firebaseapp.com
 ads-software.net
@@ -979,7 +988,6 @@ analytics.samdd.me
 analytics.siliconexpert.com
 analytics.swiggy.com
 analytics.yahoo.com
-and
 aniview.com
 anm.intelli-direct.com
 annonser.dagbladet.no
@@ -1092,7 +1100,6 @@ bannerlandia.com.ar
 bannermall.com
 bannermarkt.nl
 bannerpower.com
-banners,
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
@@ -1179,8 +1186,6 @@ blast4traffic.com
 blingbucks.com
 blis.com
 blockadblock.com
-blocking
-blocking,
 blockthrough.com
 blogads.com
 blogcounter.de
@@ -1520,7 +1525,6 @@ dmtracking2.alibaba.com
 do-global.com
 docksalmon.com
 domaining.in
-domains
 domainsponsor.com
 domainsteam.de
 domdex.com
@@ -1669,8 +1673,6 @@ feebleshock.com
 feedbackresearch.com
 feedjit.com
 ffxcam.fairfax.com.au
-file
-file,
 fimserve.com
 findcommerce.com
 findepended.com
@@ -1688,13 +1690,9 @@ floodprincipal.com
 flowgo.com
 flurry.com
 foo.cosmocode.de
-for
 foresee.com
 forex-affiliate.net
 forkcdn.com
-format)
-format)">
-format)</title>
 fourarithmetic.com
 fpctraffic.com
 fpctraffic2.com
@@ -1834,15 +1832,11 @@ hollowshake.com
 homepageking.de
 honeygoldfish.com
 hostedads.realitykings.com
-hostnames
-hosts
 hotjar.com
 hotkeys.com
 hotlog.ru
 hotrank.com.tw
 hoverowl.com
-href="rss/1.0/adservers.rss">
-href='/css/pgl.css'
 hs-analytics.net
 hsadspixel.net
 htlbid.com
@@ -1899,7 +1893,6 @@ impressionz.co.uk
 improvedigital.com
 impulsehands.com
 imrworldwide.com
-in
 inaccused.com
 inboxdollars.com
 incentaclick.com
@@ -2004,7 +1997,6 @@ kubient.com
 l1.britannica.com
 lakequincy.com
 lanistaads.com
-last
 laughablecopper.com
 laughcloth.com
 launchbit.com
@@ -2086,7 +2078,6 @@ loopme.com
 lop.com
 loudloss.com
 loudlunch.com
-Lowe;
 lp3tdqle.com
 ltmastos.com
 lucidmedia.com
@@ -2259,9 +2250,6 @@ mytrafficads.com
 myvisualiq.net
 n69.com
 naj.sk
-name="author"
-name="description"
-name="keywords"
 naradxb.com
 nastydollars.com
 nativeroll.tv
@@ -2333,7 +2321,6 @@ obscenesidewalk.com
 observantice.com
 oclasrv.com
 oewa.at
-of
 offer.fyber.com
 offer.sponsorpay.com
 offerforge.com
@@ -2377,7 +2364,6 @@ optmstr.com
 optnmstr.com
 ordingly.com
 ota.cartrawler.com
-others
 otto-images.developershed.com
 outbrain.com
 overture.com
@@ -2430,7 +2416,6 @@ permutive.com
 personagraph.com
 petiteumbrella.com
 pgl.example0101
-pgl@yoyo.org">
 pgmediaserve.com
 pgpartner.com
 pheedo.com
@@ -2492,7 +2477,6 @@ presetrabbits.com
 previousplayground.com
 previouspotato.com
 primetime.net
-privacy">
 privatecash.com
 prmtracking.com
 pro-advertising.com
@@ -2623,8 +2607,6 @@ reklama.reflektor.cz
 reklamcsere.hu
 reklamdsp.com
 reklame.unwired-i.net
-rel='stylesheet'
-rel=alternate
 relevanz10.de
 relmaxtop.com
 remarketingpixel.com
@@ -2734,7 +2716,6 @@ servadsdisrupt.com
 servedby-buysellads.com
 servedbyadbutler.com
 servedbyopenx.com
-servers,
 servethis.com
 services.hearstmags.com
 serving-sys.com
@@ -2996,7 +2977,6 @@ ticklesign.com
 ticksel.com
 tidaltv.com
 tinybar.com
-title="Blocklist
 tls.telemetry.swe.quicinc.com
 tlvmedia.com
 tnkexchange.com
@@ -3055,8 +3035,6 @@ tracker.bannerflow.com
 tracker.icerocket.com
 tracker.samplicio.us
 tracker.vgame.us
-trackers
-trackers,
 tracking.crunchiemedia.com
 tracking.gajmp.com
 tracking.ibxlink.com
@@ -3124,8 +3102,6 @@ tvmtracker.com
 twittad.com
 twyn.com
 tynt.com
-type="application/rss+xml"
-type='text/css'></head>
 typicalteeth.com
 tyroo.com
 uarating.com
@@ -3155,9 +3131,6 @@ utils.mediageneral.net
 uttermosthobbies.com
 v1.cnzz.com
 validclick.com
-value="ad
-value="Blocklist
-value="Peter
 valuead.com
 valueclick.com
 valueclickmedia.com
@@ -3336,3 +3309,6 @@ zpu.samsungelectronics.com
 zqtk.net
 zy16eoat1w.com
 zzhc.vnet.cn
+</pre>
+</body>
+</html>
