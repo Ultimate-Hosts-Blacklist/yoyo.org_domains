@@ -6717,7 +6717,7 @@
     "netclickstats.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "netcommunities.com": {
         "epoch": 1614211200.0,
@@ -6735,7 +6735,7 @@
         "state": "future"
     },
     "netshelter.net": {
-        "epoch": 1609200000,
+        "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
         "state": "future"
     },
@@ -7320,7 +7320,7 @@
         "state": "future"
     },
     "picadmedia.com": {
-        "epoch": 1599782400,
+        "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
@@ -7630,9 +7630,9 @@
         "state": "future"
     },
     "pstmrk.it": {
-        "epoch": 1587340800,
+        "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "pub.network": {
         "epoch": 1620604800.0,
@@ -9575,7 +9575,7 @@
         "state": "future"
     },
     "toplist.cz": {
-        "epoch": 1603238400,
+        "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
