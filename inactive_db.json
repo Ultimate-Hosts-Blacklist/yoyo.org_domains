@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-06-16T22:57:05.370998",
             "status": "INVALID"
         },
+        "50": {
+            "included_at_epoch": 1592422242.310639,
+            "included_at_iso": "2020-06-17T19:30:42.310639",
+            "last_retested_at_epoch": 1592422242.310639,
+            "last_retested_at_iso": "2020-06-17T19:30:42.310639",
+            "status": "INVALID"
+        },
         "</body>": {
             "included_at_epoch": 1588374841.0,
             "included_at_iso": "2020-05-01T23:14:01",
@@ -3048,8 +3055,8 @@
         "www.gotraffic.net": {
             "included_at_epoch": 1588400013.0,
             "included_at_iso": "2020-05-02T06:13:33",
-            "last_retested_at_epoch": 1592162330.919887,
-            "last_retested_at_iso": "2020-06-14T19:18:50.919887",
+            "last_retested_at_epoch": 1592422913.424455,
+            "last_retested_at_iso": "2020-06-17T19:41:53.424455",
             "status": "INACTIVE"
         },
         "www.gracefulsock.com": {
