@@ -28,13 +28,6 @@
             "last_retested_at_iso": "2020-06-16T22:57:05.370998",
             "status": "INVALID"
         },
-        "50": {
-            "included_at_epoch": 1592422242.310639,
-            "included_at_iso": "2020-06-17T19:30:42.310639",
-            "last_retested_at_epoch": 1592422242.310639,
-            "last_retested_at_iso": "2020-06-17T19:30:42.310639",
-            "status": "INVALID"
-        },
         "</body>": {
             "included_at_epoch": 1588374841.0,
             "included_at_iso": "2020-05-01T23:14:01",
@@ -2397,8 +2390,8 @@
         "www.deloo.de": {
             "included_at_epoch": 1588481181.0,
             "included_at_iso": "2020-05-03T04:46:21",
-            "last_retested_at_epoch": 1592151448.794315,
-            "last_retested_at_iso": "2020-06-14T16:17:28.794315",
+            "last_retested_at_epoch": 1592429199.595701,
+            "last_retested_at_iso": "2020-06-17T21:26:39.595701",
             "status": "INACTIVE"
         },
         "www.deloplen.com": {
@@ -4427,8 +4420,8 @@
         "www.quaintcan.com": {
             "included_at_epoch": 1588446725.0,
             "included_at_iso": "2020-05-02T19:12:05",
-            "last_retested_at_epoch": 1592145751.377692,
-            "last_retested_at_iso": "2020-06-14T14:42:31.377692",
+            "last_retested_at_epoch": 1592428888.345828,
+            "last_retested_at_iso": "2020-06-17T21:21:28.345828",
             "status": "INACTIVE"
         },
         "www.quarterbean.com": {
@@ -4714,8 +4707,8 @@
         "www.sail-horizon.com": {
             "included_at_epoch": 1588517526.0,
             "included_at_iso": "2020-05-03T14:52:06",
-            "last_retested_at_epoch": 1592156654.981501,
-            "last_retested_at_iso": "2020-06-14T17:44:14.981501",
+            "last_retested_at_epoch": 1592428781.980472,
+            "last_retested_at_iso": "2020-06-17T21:19:41.980472",
             "status": "INACTIVE"
         },
         "www.saysidewalk.com": {
@@ -5673,8 +5666,8 @@
         "www.webcontentassessor.com": {
             "included_at_epoch": 1588362305.0,
             "included_at_iso": "2020-05-01T19:45:05",
-            "last_retested_at_epoch": 1592200983.281015,
-            "last_retested_at_iso": "2020-06-15T06:03:03.281015",
+            "last_retested_at_epoch": 1592429369.134993,
+            "last_retested_at_iso": "2020-06-17T21:29:29.134993",
             "status": "INACTIVE"
         },
         "www.webtracker.jp": {
