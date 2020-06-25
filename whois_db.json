@@ -52,7 +52,7 @@
     "24pm-affiliation.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "2mdn.net": {
         "epoch": 1619913600.0,
@@ -10727,6 +10727,11 @@
     "xertive.com": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
+    "xfreeservice.com": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "xg4ken.com": {
