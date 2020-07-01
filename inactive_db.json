@@ -29,10 +29,10 @@
             "status": "INVALID"
         },
         "50": {
-            "included_at_epoch": 1593609510.367786,
-            "included_at_iso": "2020-07-01T13:18:30.367786",
-            "last_retested_at_epoch": 1593609510.367786,
-            "last_retested_at_iso": "2020-07-01T13:18:30.367786",
+            "included_at_epoch": 1593615560.093265,
+            "included_at_iso": "2020-07-01T14:59:20.093265",
+            "last_retested_at_epoch": 1593615560.093265,
+            "last_retested_at_iso": "2020-07-01T14:59:20.093265",
             "status": "INVALID"
         },
         "</body>": {
@@ -671,6 +671,13 @@
             "last_retested_at_epoch": 1593598636.484731,
             "last_retested_at_iso": "2020-07-01T10:17:16.484731",
             "status": "INVALID"
+        },
+        "boersego-ads.de": {
+            "included_at_epoch": 1593615378.493768,
+            "included_at_iso": "2020-07-01T14:56:18.493768",
+            "last_retested_at_epoch": 1593615378.493768,
+            "last_retested_at_iso": "2020-07-01T14:56:18.493768",
+            "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1588507914.0,
@@ -1711,8 +1718,8 @@
         "www.aquaticowl.com": {
             "included_at_epoch": 1588480833.0,
             "included_at_iso": "2020-05-03T04:40:33",
-            "last_retested_at_epoch": 1593297700.015876,
-            "last_retested_at_iso": "2020-06-27T22:41:40.015876",
+            "last_retested_at_epoch": 1593615001.590674,
+            "last_retested_at_iso": "2020-07-01T14:50:01.590674",
             "status": "INACTIVE"
         },
         "www.ar1nvz5.com": {
@@ -1974,6 +1981,13 @@
             "last_retested_at_iso": "2020-06-30T22:48:29.499266",
             "status": "INACTIVE"
         },
+        "www.boersego-ads.de": {
+            "included_at_epoch": 1593615378.898786,
+            "included_at_iso": "2020-07-01T14:56:18.898786",
+            "last_retested_at_epoch": 1593615378.898786,
+            "last_retested_at_iso": "2020-07-01T14:56:18.898786",
+            "status": "INACTIVE"
+        },
         "www.boilingbeetle.com": {
             "included_at_epoch": 1588471922.0,
             "included_at_iso": "2020-05-03T02:12:02",
@@ -2166,8 +2180,8 @@
         "www.chewcoat.com": {
             "included_at_epoch": 1588517788.0,
             "included_at_iso": "2020-05-03T14:56:28",
-            "last_retested_at_epoch": 1593357243.254966,
-            "last_retested_at_iso": "2020-06-28T15:14:03.254966",
+            "last_retested_at_epoch": 1593615519.710593,
+            "last_retested_at_iso": "2020-07-01T14:58:39.710593",
             "status": "INACTIVE"
         },
         "www.chickensstation.com": {
@@ -2467,8 +2481,8 @@
         "www.de17a.com": {
             "included_at_epoch": 1588492247.0,
             "included_at_iso": "2020-05-03T07:50:47",
-            "last_retested_at_epoch": 1593310449.945427,
-            "last_retested_at_iso": "2020-06-28T02:14:09.945427",
+            "last_retested_at_epoch": 1593615370.031863,
+            "last_retested_at_iso": "2020-07-01T14:56:10.031863",
             "status": "INACTIVE"
         },
         "www.deadpantruck.com": {
@@ -2586,8 +2600,8 @@
         "www.dispensablestranger.com": {
             "included_at_epoch": 1588511283.0,
             "included_at_iso": "2020-05-03T13:08:03",
-            "last_retested_at_epoch": 1593340456.473738,
-            "last_retested_at_iso": "2020-06-28T10:34:16.473738",
+            "last_retested_at_epoch": 1593614825.753714,
+            "last_retested_at_iso": "2020-07-01T14:47:05.753714",
             "status": "INACTIVE"
         },
         "www.displayadsmedia.com": {
@@ -3573,8 +3587,8 @@
         "www.inventionpassenger.com": {
             "included_at_epoch": 1588471679.0,
             "included_at_iso": "2020-05-03T02:07:59",
-            "last_retested_at_epoch": 1593406128.650069,
-            "last_retested_at_iso": "2020-06-29T04:48:48.650069",
+            "last_retested_at_epoch": 1593614960.374019,
+            "last_retested_at_iso": "2020-07-01T14:49:20.374019",
             "status": "INACTIVE"
         },
         "www.inviterabbits.com": {
@@ -3741,8 +3755,8 @@
         "www.leadingedgecash.com": {
             "included_at_epoch": 1588488176.0,
             "included_at_iso": "2020-05-03T06:42:56",
-            "last_retested_at_epoch": 1593284803.008486,
-            "last_retested_at_iso": "2020-06-27T19:06:43.008486",
+            "last_retested_at_epoch": 1593615270.974267,
+            "last_retested_at_iso": "2020-07-01T14:54:30.974267",
             "status": "INACTIVE"
         },
         "www.leaplunchroom.com": {
@@ -4427,8 +4441,8 @@
         "www.possibleboats.com": {
             "included_at_epoch": 1588422417.0,
             "included_at_iso": "2020-05-02T12:26:57",
-            "last_retested_at_epoch": 1593382139.011758,
-            "last_retested_at_iso": "2020-06-28T22:08:59.011758",
+            "last_retested_at_epoch": 1593614962.179807,
+            "last_retested_at_iso": "2020-07-01T14:49:22.179807",
             "status": "INACTIVE"
         },
         "www.posumeads.com": {
@@ -5134,8 +5148,8 @@
         "www.sillyscrew.com": {
             "included_at_epoch": 1588498846.0,
             "included_at_iso": "2020-05-03T09:40:46",
-            "last_retested_at_epoch": 1593376611.11467,
-            "last_retested_at_iso": "2020-06-28T20:36:51.114670",
+            "last_retested_at_epoch": 1593615346.119312,
+            "last_retested_at_iso": "2020-07-01T14:55:46.119312",
             "status": "INACTIVE"
         },
         "www.similarsabine.com": {
@@ -5820,8 +5834,8 @@
         "www.untidyquestion.com": {
             "included_at_epoch": 1588517695.0,
             "included_at_iso": "2020-05-03T14:54:55",
-            "last_retested_at_epoch": 1593370262.791144,
-            "last_retested_at_iso": "2020-06-28T18:51:02.791144",
+            "last_retested_at_epoch": 1593614940.161339,
+            "last_retested_at_iso": "2020-07-01T14:49:00.161339",
             "status": "INACTIVE"
         },
         "www.unusualtitle.com": {
