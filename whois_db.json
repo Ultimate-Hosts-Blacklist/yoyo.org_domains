@@ -1284,6 +1284,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "adtech-digital.ru": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
+    },
     "adtech.com": {
         "epoch": 1627257600.0,
         "expiration_date": "26-jul-2021",
@@ -4507,7 +4512,7 @@
     "free-counter.co.uk": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "free-counters.co.uk": {
         "epoch": 1648080000.0,
