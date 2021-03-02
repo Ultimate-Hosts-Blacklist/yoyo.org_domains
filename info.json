@@ -1,38 +1,15 @@
 {
-    "current_stats": {
-        "builds": 2951,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 4750,
-        "whitelisted.list": 4750
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-03T15:57:52.470015",
-    "end_epoch": 1583118421.866714,
-    "last_autosave_datetime": "2020-03-03T15:57:52.470028",
-    "last_autosave_epoch": 1583243784.43435,
-    "name": "yoyo.org_domains",
-    "previous_stats": {
-        "builds": 9,
-        "clean.list": 4887,
-        "counter": {
-            "down": 611,
-            "invalid": 50,
-            "tested": 5548,
-            "up": 4887
-        },
-        "domains.list": 5548,
-        "ip.list": 0,
-        "volatile.list": 4887,
-        "whitelisted.list": 4887
+    "end_datetime": "2021-03-02T23:37:53.780134",
+    "end_epoch": 1614724673.780134,
+    "name": "lacklist_yoyo.org_domains_master",
+    "previous_end_datetime": "2020-03-02T17:05:44.072728",
+    "previous_end_epoch": 1583165144.072731,
+    "previous_start_datetime": "2020-03-02T17:05:44.072722",
+    "previous_start_epoch": 1583165144.072729,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0",
     "start_datetime": "2020-03-03T15:57:52.475933",
