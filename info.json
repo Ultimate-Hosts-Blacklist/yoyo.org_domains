@@ -1,17 +1,17 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2021-07-11T08:10:32.355833",
     "end_epoch": 1625991032.355833,
     "name": "yoyo.org_domains",
-    "previous_end_datetime": "2021-07-10T11:38:56.323360",
-    "previous_end_epoch": 1625917136.32336,
-    "previous_start_datetime": "2021-07-10T08:04:02.608101",
-    "previous_start_epoch": 1625904242.608101,
+    "previous_end_datetime": "2021-07-11T08:10:32.355833",
+    "previous_end_epoch": 1625991032.355833,
+    "previous_start_datetime": "2021-07-11T05:42:46.577015",
+    "previous_start_epoch": 1625982166.577015,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0",
-    "start_datetime": "2021-07-11T05:42:46.577015",
-    "start_epoch": 1625982166.577015
+    "start_datetime": "2021-07-11T10:59:00.326674",
+    "start_epoch": 1626001140.326674
 }
