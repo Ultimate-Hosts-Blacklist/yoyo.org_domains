@@ -195,8 +195,6 @@ blocking,
 blocklist
 clickwith.bid
 domains
-file
-file,
 (format:
 (rss
 -
@@ -239,4 +237,3 @@ hosts
 href="rss/1.0/adservers.rss">
 href='/css/pgl.css'
 in
-last
