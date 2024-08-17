@@ -1309,6 +1309,9 @@ value="peter
 -
 --
 50
+</body>
+</html>
+</pre>
 <body>
 <head>
 <html>
@@ -1353,10 +1356,14 @@ file,
 for
 format)
 format)">
+format)</title>
 hostnames
 hosts
+href="rss/1.0/adservers.rss">
+href='/css/pgl.css'
 in
 last
+lowe;
 measure.office.com
 mtrcs.samba.tv
 name="author"
@@ -1380,6 +1387,8 @@ title="blocklist
 tls.telemetry.swe.quicinc.com
 trackers
 trackers,
+type="application/rss+xml"
+type='text/css'></head>
 value="ad
 value="blocklist
 value="peter
